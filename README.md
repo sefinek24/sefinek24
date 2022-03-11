@@ -7,5 +7,6 @@
 
 I used to smoke blanchers until five in the morning. The movie broke off when I was lying in the pipe. Now the cross is fucking me. I got a little sleep, but I had to get up in the morning because I have responsibilities. I have a baby. Some people say you can't drink when you have children, but that's not true. You can, you just have to get up in the morning. This is responsibility.
 
-<b>My Discord bot:</b> https://noel.skiffybot.xyz  
-<b>My official website:</b> https://skiffybot.xyz
+» <b>My Discord bot:</b> https://noel.skiffybot.xyz  
+» <b>Official website:</b> https://skiffybot.xyz  
+» <b>Discord server:</b> https://discord.gg/WeDskJZuNb
