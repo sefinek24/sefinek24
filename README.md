@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/944424295415820298" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/944424295415820298?bg=202225&borderRadius=12px">
 </a>
-<a href="https://wakatime.com/@sefinek24" target="_blank">
+<a href="https://wakatime.com/@Sefinek" target="_blank">
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=12px&theme=dark&bg_color=202225&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats">
 </a>
 
