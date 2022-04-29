@@ -1,4 +1,4 @@
-<img src="https://github.com/sefinek24/sefinek24/blob/main/images/4355954.jpg">
+<img src="https://github.com/sefinek24/sefinek24/blob/main/images/4355954.jpg" alt="Anime Programming Wallpaper">
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=12px&theme=dark&bg_color=202225&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats" alt="Weekly Stats">
