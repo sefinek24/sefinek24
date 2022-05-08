@@ -11,5 +11,5 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 » **Discord server:** https://discord.gg/WeDskJZuNb
 
 <a href="https://discord.com/users/944424295415820298" target="_blank">
-	<img width="46%" src="https://lanyard.cnrad.dev/api/944424295415820298?bg=202225&borderRadius=12px" alt="Discord Status">
+	<img width="47%" src="https://lanyard.cnrad.dev/api/944424295415820298?bg=202225&borderRadius=12px" alt="Discord Status">
 </a>
