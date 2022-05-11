@@ -12,4 +12,5 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 
 <a href="https://skiffybot.xyz" target="_blank">
 	<img width="47%" src="https://lanyard.cnrad.dev/api/944424295415820298?bg=202225&borderRadius=13px" alt="Discord Status">
+    <img src="https://wakatime.com/badge/user/a97c2f5e-1956-4596-b501-0ecab4533d9e.svg?style=flat" alt="Discord Status">
 </a>
