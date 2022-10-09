@@ -6,10 +6,10 @@
 
 I used to smoke blanchers until five in the morning. The movie broke off when I was lying in the pipe. Now the cross is fucking me. I got a little sleep, but I had to get up in the morning because I have responsibilities. I have a baby. Some people say you can't drink when you have children, but that's not true. You can, you just have to get up in the morning. This is responsibility.
 
-» **Official website:** https://sefinek.fun  
-» **Discord bot:** https://noel.skiffybot.xyz  
-» **My API:** https://api.skiffybot.xyz (random cats, foxes etc.)  
-» **E-mail:** contact@sefinek.fun
+» **Official website:** https://sefinek.net  
+» **Discord bot:** https://noel.sefinek.net  
+» **My API:** https://api.sefinek.net (random cats, foxes etc.)  
+» **E-mail:** contact@sefinek.net
 
 <a href="https://sefinek.fun" target="_blank">
 	<img src="https://lanyard.cnrad.dev/api/495987222798008330?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
