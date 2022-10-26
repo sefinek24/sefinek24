@@ -11,6 +11,6 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 » **My API:** https://api.sefinek.net (random cats, foxes etc.)  
 » **E-mail:** contact@sefinek.net
 
-<a href="https://sefinek.fun" target="_blank">
+<a href="https://sefinek.net" target="_blank">
 	<img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
 </a>
