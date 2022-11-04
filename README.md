@@ -8,7 +8,7 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 
 » **Official website:** https://sefinek.net  
 » **Discord bot:** https://noel.sefinek.net  
-» **My API:** https://api.sefinek.net (random cats, foxes etc.)  
+» **Public API:** https://api.sefinek.net (random cats, foxes etc.)  
 » **E-mail:** contact@sefinek.net
 
 <a href="https://sefinek.net" target="_blank">
