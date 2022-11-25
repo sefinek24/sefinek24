@@ -22,5 +22,5 @@ Some people say you can't drink when you have children, but that's not true. You
 </p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sefinek24" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views">
 </div>
