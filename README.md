@@ -17,6 +17,6 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 	<img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
 </a>
 
-<div align="center">
+<div align="center" style="padding-top:30px">
     <img src="https://komarev.com/ghpvc/?username=sefinek24" alt="Profile views">
 </div>
