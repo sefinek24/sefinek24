@@ -13,10 +13,12 @@ I used to smoke blanchers until five in the morning. The movie broke off when I 
 » **Free API:** https://api.sefinek.net (random cats, dogs, foxes)...  
 » **E-Mail:** contact@sefinek.net
 
-<a href="https://sefinek.net" target="_blank">
-	<img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
-</a>
+<p>
+    <a href="https://sefinek.net" target="_blank">
+	    <img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
+    </a>
+</p>
 
-<div align="center" style="padding-top:30px">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=sefinek24" alt="Profile views">
 </div>
