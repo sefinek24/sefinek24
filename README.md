@@ -10,7 +10,8 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,linux,raspberrypi,cloudflare,discord)](https://skills.thijs.gg)
 
 » **Official website:** https://sefinek.net  
-» **E-Mail:** contact@sefinek.net
+» **Free API:** https://api.sefinek.net (random cats, dogs, foxes)...  
+» **E-Mail:** contact@sefinek.net  
 
 <p>
     <a href="https://sefinek.net" target="_blank">
