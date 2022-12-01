@@ -13,11 +13,10 @@
 » **Free API:** https://api.sefinek.net (random cats, dogs, foxes)...  
 » **E-Mail:** contact@sefinek.net  
 
-<p>
-    <a href="https://sefinek.net" target="_blank">
-	    <img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
-    </a>
-</p>
+<a href="https://sefinek.net" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
+</a>
+<br><br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views">
