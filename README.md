@@ -10,6 +10,7 @@
     Anyways, slept there, had a pretty good sleep, but I still had to get up early this morning cause I got responsibles now. Growed up, I got kids.
     A lot of people say you can't smoke dope and get drunk when you have kids but that's not true. You can. But you still gotta get up in the morning. That's being responsible.
 </a>
+<br>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,cs,mysql,mongo)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=idea,linux,raspberrypi,cloudflare,discord)](https://skills.thijs.gg)
