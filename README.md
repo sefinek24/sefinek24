@@ -14,7 +14,7 @@
 » **E-Mail:** contact@sefinek.net  
 
 <a href="https://sefinek.net" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/727996139827232879?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
 </a>
 <br><br>
 
