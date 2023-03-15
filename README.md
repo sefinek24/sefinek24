@@ -8,7 +8,6 @@
 
 🌍 **Official website:** https://sefinek.net  
 ✨ **Free API:** https://api.sefinek.net (filters, random animals etc.)  
-📩 **E-Mail:** contact@sefinek.net
 
 ### 😺 I like:
 [![Icons](https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs)](https://skills.thijs.gg)
