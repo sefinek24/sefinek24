@@ -12,16 +12,18 @@
 
 ## 😺 I like...
 <div align="center">
-    <img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skills.thijs.gg" align="center"><br><br>
-    <img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skills.thijs.gg">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
+    <img src="https://skillicons.dev/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skillicons.dev">
 </div>
 
 ## 😾 I don't like...
-<img src="https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpres" height="50px" alt="skills.thijs.gg">
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
+</div>
 
 ## 💙 Discord
 <a href="https://sefinek.net" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="47%" align="center" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="48%" align="center" alt="Discord Status">
 </a>
 <br><br>
 
