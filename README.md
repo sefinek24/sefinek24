@@ -1,7 +1,7 @@
 <img src="images/4355954.jpg" alt="Anime Programming Wallpaper">
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
-	<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=Sefinek%27s+Wakatime+stats" alt="Weekly Stats">
+	<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=Sefinek%27s+Wakatime+stats" alt="Weekly Stats">
 </a>
 
 [I got really fucking drunk last night. Smoked a bunch of dope til five in the morning. Ended up passing out in the sewer pipe cause it's kind of cramped back here and my back's a little sore. Anyways, slept there, had a pretty good sleep, but I still had to get up early this morning cause I got responsibles now. Growed up, I got kids. A lot of people say you can't smoke dope and get drunk when you have kids but that's not true. You can. But you still gotta get up in the morning. That's being responsible.](https://www.youtube.com/watch?v=uQa1YyNOc_o)
