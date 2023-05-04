@@ -9,12 +9,13 @@
 🌍 » **My website:** https://sefinek.net  
 ✨ » **API:** https://api.sefinek.net (filters, random animals etc.)  
 
-### 😺 I like:
-[![Icons](https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs)](https://skills.thijs.gg)
-[![Icons](https://skills.thijs.gg/icons?i=discord,idea,raspberrypi,cloudflare,mongo,linux)](https://skills.thijs.gg)
-[![Icons](https://skills.thijs.gg/icons?i=github,nginx)](https://skills.thijs.gg)
+## 😺 I like:
+<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="45px"><br>
+<img src="https://skills.thijs.gg/icons?i=discord,idea,raspberrypi,cloudflare,mongo,linux" height="45px"><br>
+<img src="https://skills.thijs.gg/icons?i=github,nginx" height="45px">
 
-### 😾 I don't like:
+
+## 😾 I don't like:
 [![Icons](https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpress)](https://skills.thijs.gg)
 
 <a href="https://sefinek.net" target="_blank">
