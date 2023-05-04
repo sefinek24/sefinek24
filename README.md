@@ -10,11 +10,11 @@
 ✨ » **API:** https://api.sefinek.net (filters, random animals etc.)  
 
 ## 😺 I like:
-<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="45px"><br>
-<img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="45px"><br>
+<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="47px" alt="skills.thijs.gg"><br>
+<img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="47px" alt="skills.thijs.gg">
 
 ## 😾 I don't like:
-[![Icons](https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpress)](https://skills.thijs.gg)
+<img src="https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpres" height="47px" alt="skills.thijs.gg">
 
 <a href="https://sefinek.net" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="47%" alt="Discord Status">
