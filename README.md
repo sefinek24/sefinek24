@@ -8,14 +8,14 @@
 
 ## 🔥 Some websites
 🌍 » **My official:** https://sefinek.net  
-✨ » **API:** https://api.sefinek.net (filters, random animals etc.)  
+✨ » **API:** https://api.sefinek.net (random animals, filters etc.)  
 
 ## 😺 I like...
-<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="47px" alt="skills.thijs.gg"><br>
-<img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="47px" alt="skills.thijs.gg">
+<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="49px" alt="skills.thijs.gg"><br>
+<img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="49px" alt="skills.thijs.gg">
 
 ## 😾 I don't like...
-<img src="https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpres" height="47px" alt="skills.thijs.gg">
+<img src="https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpres" height="49px" alt="skills.thijs.gg">
 
 ## 💙 Discord
 <a href="https://sefinek.net" target="_blank">
