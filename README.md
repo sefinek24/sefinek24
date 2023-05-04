@@ -11,8 +11,10 @@
 ✨ » **API:** https://api.sefinek.net (random animals, filters etc.)  
 
 ## 😺 I like...
-<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skills.thijs.gg" align="center"><br>
-<img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skills.thijs.gg">
+<div align="center">
+    <img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skills.thijs.gg" align="center"><br><br>
+    <img src="https://skills.thijs.gg/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skills.thijs.gg">
+</div>
 
 ## 😾 I don't like...
 <img src="https://skills.thijs.gg/icons?i=php,mysql,python,cpp,visualstudio,wordpres" height="50px" alt="skills.thijs.gg">
