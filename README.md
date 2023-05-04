@@ -31,3 +31,5 @@
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
     <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views">
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=92880265)
