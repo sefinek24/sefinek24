@@ -25,11 +25,11 @@
 <a href="https://sefinek.net" target="_blank">
     <div align="center"><img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
 </a>
-<br><br>
+<br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
-    <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Profile views">
+    <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
     <!-- <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views"> -->
 </div>
 
