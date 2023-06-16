@@ -25,7 +25,6 @@
 <a href="https://sefinek.net" target="_blank">
     <div align="center"><img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
 </a>
-<br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
