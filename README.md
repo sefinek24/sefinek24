@@ -23,7 +23,7 @@
 
 ## 🌌 Discord
 <a href="https://sefinek.net" target="_blank">
-    <div align="center"><img src="https://lanyard.cnrad.dev/api/614087461227986965?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
+    <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
 </a>
 
 <div align="center">
