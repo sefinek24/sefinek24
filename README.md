@@ -28,8 +28,12 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-contribution-grid-snake-dark.svg" alt="Snake"><br><br>
-    <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
     <!-- <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views"> -->
 </div>
+
+
+<img width="45%" align="right" src="images/cat.jpg" alt="Wakatime stats">
+<img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" style="padding-top:100px" alt="Views" title="Profile views">
+
 
 ![](https://hit.yhype.me/github/profile?user_id=92880265)
