@@ -33,10 +33,10 @@
 
 
 <img width="40%" align="right" src="images/cat.jpg" alt="Wakatime stats">
-<br><br><br>
+<br>
 <div align="center">
     <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
-    <img width="40%" src="images/cat2.png" alt="Wakatime stats">
+    <img width="37%" src="images/cat2.png" alt="Wakatime stats">
 </div>
 
 
