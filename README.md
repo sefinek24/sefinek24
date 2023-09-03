@@ -32,8 +32,9 @@
 </div>
 
 
-<img width="45%" align="right" src="images/cat.jpg" alt="Wakatime stats">
-<img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" style="padding-top:100px" alt="Views" title="Profile views">
+<img width="40%" align="right" src="images/cat.jpg" alt="Wakatime stats">
+<br><br><br>
+<img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
 
 
 ![](https://hit.yhype.me/github/profile?user_id=92880265)
