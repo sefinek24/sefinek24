@@ -6,8 +6,8 @@
 
 [I got really fucking drunk last night. Smoked a bunch of dope til five in the morning. Ended up passing out in the sewer pipe cause it's kind of cramped back here and my back's a little sore. Anyways, slept there, had a pretty good sleep, but I still had to get up early this morning cause I got responsibles now. Growed up, I got kids. A lot of people say you can't smoke dope and get drunk when you have kids but that's not true. You can. But you still gotta get up in the morning. That's being responsible.](https://www.youtube.com/watch?v=uQa1YyNOc_o)
 
-## 🔥 My websites
-🌍 » https://sefinek.net  
+## 🌍 My websites
+🔥 » https://sefinek.net  
 ✨ » https://api.sefinek.net (random animals, filters etc.)  
 🛒 » https://market.sefinek.net (shop with game accounts etc.)  
 
