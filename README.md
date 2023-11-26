@@ -27,8 +27,7 @@
 </a>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-snake-dark.svg?palette=github-dark" alt="Snake"><br><br>
-    <!-- <img src="https://komarev.com/ghpvc/?username=sefinek24&style=for-the-badge" alt="Profile views"> -->
+    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/ocean.gif" alt="Snake">
 </div>
 
 
