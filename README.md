@@ -27,7 +27,7 @@
 </a>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/output/github-snake.svg" alt="Snake">
+    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/snk.svg" alt="Snake">
 </div>
 
 

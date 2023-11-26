@@ -24,14 +24,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
+            dist/snk.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-snake.svg to the snake branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: snake
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
