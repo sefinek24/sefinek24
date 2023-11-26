@@ -32,10 +32,10 @@
 </div>
 
 
-<img width="52%" align="right" src="images/cat.jpg" alt="Cat 1">
+<img width="51%" align="right" src="images/cat.jpg" alt="Cat 1">
 <div align="center">
     <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
-    <img width="38%" src="images/cat2.png" alt="Cat 2">
+    <img width="37%" src="images/cat2.png" alt="Cat 2">
 </div>
 
 
