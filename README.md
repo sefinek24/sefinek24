@@ -34,7 +34,7 @@
 
 <img width="51%" align="right" src="images/cat.jpg" alt="Cat 1">
 <div align="center">
-    <img src="https://count.getloli.com/get/@sefinek-github-readme?theme=rule34" alt="Views" title="Profile views">
+    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Views" title="Profile views">
     <img width="37%" src="images/cat2.png" alt="Cat 2">
 </div>
 
