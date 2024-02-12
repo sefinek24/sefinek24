@@ -32,5 +32,5 @@
 <i>They have been collected since 02/12/2024.</i>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake"><br><br>
+    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake">
 </div>
