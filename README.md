@@ -1,4 +1,4 @@
-<img src="images/4355954.jpg" alt="Anime Girl Programming Wallpaper">
+<img src="images/neko-alpha.png" alt="Anime Girl Programming Wallpaper">
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+Sefinek%27s+Wakatime+stats" alt="Wakatime stats">
