@@ -8,7 +8,7 @@
 
 ## 🌍 〢 My projects
 🏠 » [sefinek.net](https://sefinek.net) (official website)  
-✨ » [api.sefinek.net](https://api.sefinek.net) (free API for devs; filters, random animals, etc.)  
+✨ » [api.sefinek.net](https://api.sefinek.net) (free API; filters, random animals, etc.)  
 🛒 » [market.sefinek.net](https://market.sefinek.net) (shop with game accounts etc.)
 
 ## 😺 〢 I like...
