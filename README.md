@@ -28,7 +28,7 @@
 </a>
 
 ## 📃 〢 Profile views
-<img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Moecouter powered by api.sefinek.net" title="Profile view statistics. They have been collected since 02/12/2024.">
+<img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Moecounter powered by api.sefinek.net" title="Profile view statistics. They have been collected since 02/12/2024.">
 <br>
 <i>They have been collected since 02/12/2024.</i>
 
