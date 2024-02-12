@@ -29,7 +29,7 @@
 
 ## 📃 〢 Profile views
 <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Views" title="Profile view statistics. They have been collected since 02/12/2024.">
-<br><br>
+<br>
 <i>They have been collected since 02/12/2024.</i>
 
 <div align="center">
