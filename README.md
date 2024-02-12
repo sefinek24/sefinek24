@@ -28,8 +28,10 @@
 </a>
 
 ## 📃 〢 Profile views
-<img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Moecounter powered by api.sefinek.net" title="Profile view statistics. They have been collected since 02/12/2024."><br>
-<i>They have been collected since 02/12/2024.</i>
+<div align="center">
+    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Moecounter powered by api.sefinek.net" title="Profile view statistics. They have been collected since 02/12/2024."><br>
+    <i>Statistics have been collected since 02/12/2024.</i>
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake">
