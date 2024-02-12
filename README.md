@@ -27,17 +27,11 @@
     <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
 </a>
 
+## 📃 〢 Profile views
+<img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Views" title="Profile view statistics. They have been collected since 02/12/2024.">
+<br><br>
+<i>They have been collected since 02/12/2024.</i>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake"><br><br>
 </div>
-
-
-<img width="51%" align="right" src="images/cat.jpg" alt="Cat 1">
-<div align="center">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Views" title="Profile views">
-    <img width="37%" src="images/cat2.png" alt="Cat 2">
-</div>
-
-
-
-![](https://hit.yhype.me/github/profile?user_id=92880265)
