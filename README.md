@@ -10,7 +10,7 @@
 🏠 » [sefinek.net](https://sefinek.net) • Official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
 🛒 » [market.sefinek.net](https://market.sefinek.net) • Shop with game accounts, etc.  
-😻 » [genshin.sefinek.net](https://genshin.sefinek.net) • The best mod for Genshin Impact
+😻 » [stella.sefinek.net](https://stella.sefinek.net) • The best & safe mod for Genshin Impact
 
 ## 😺 〢 I like...
 <div align="center">
