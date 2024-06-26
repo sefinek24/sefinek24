@@ -11,6 +11,7 @@
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
 😻 » [stella.sefinek.net](https://stella.sefinek.net) • The best & safe mod for Genshin Impact  
 🛒 » [market.sefinek.net](https://market.sefinek.net) • Shop with game accounts, etc.
+<hr>
 
 ### 😺 〢 I like...
 <div align="center">
