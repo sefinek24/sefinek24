@@ -12,23 +12,23 @@
 🛒 » [market.sefinek.net](https://market.sefinek.net) • Shop with game accounts, etc.  
 😻 » [genshin.sefinek.net](https://genshin.sefinek.net) • The best mod for Genshin Impact
 
-## 😺 〢 I like...
+### 😺 〢 I like...
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
     <img src="https://skillicons.dev/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skillicons.dev">
 </div>
 
-## 😾 〢 I don't like...
+### 😾 〢 I don't like...
 <div align="center">
     <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
 </div>
 
-## 🌌 〢 Discord
+### 🌌 〢 Discord
 <a href="https://sefinek.net" target="_blank">
     <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
 </a>
 
-## 📃 〢 Profile views
+### 📃 〢 Profile views
 <div align="center">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Moecounter powered by api.sefinek.net" title="Profile view statistics. They have been collected since 02/12/2024."><br>
     <i>Statistics have been collected since 02/12/2024.</i>
