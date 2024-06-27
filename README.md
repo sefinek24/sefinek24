@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsefinek24%2Fsefinek24.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsefinek24%2Fsefinek24?ref=badge_shield)
+
 <img src="images/neko-alpha.png" alt="Anime Girl Programming Wallpaper">
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
@@ -41,3 +43,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake">
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsefinek24%2Fsefinek24.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsefinek24%2Fsefinek24?ref=badge_large)
