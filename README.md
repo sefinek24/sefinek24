@@ -28,10 +28,10 @@
 </div>
 <hr>
 
-### 🌌 〢 Discord
-<a href="https://sefinek.net" target="_blank">
-    <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
-</a>
+### 😻 〢 Meow
+<div align="center">
+    <img src="images/nekos.gif" alt="nekos.gif">
+</div>
 <hr>
 
 ### 📃 〢 Profile views
