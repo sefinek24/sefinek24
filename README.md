@@ -9,7 +9,7 @@
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • Official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
-😻 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • The best & safe mod for Genshin Impact  
+🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • The best & safe mod for Genshin Impact  
 😻 » [nekosia.cat](https://nekosia.cat) • API with random Anime images + Booru
 
 [//]: # (🛒 » [market.sefinek.net]&#40;https://market.sefinek.net&#41; • Shop with game accounts, etc.)
