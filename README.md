@@ -31,6 +31,7 @@
 ### 😻 〢 Meow
 <div align="center">
     <img src="images/nekos.gif" alt="nekos.gif">
+    <img src="images/pixelart.png" alt="pixelart.png">
 </div>
 <hr>
 
