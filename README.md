@@ -38,7 +38,7 @@
 ### 📃 〢 Profile views
 <div align="center">
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=rule34" alt="Sefinek MoeCounter" title="Profile view statistics. They have been collected since 02/12/2024.">    
+        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile view statistics. They have been collected since 02/12/2024.">    
     </a>
     <br>
     <i>Statistics have been collected since 02/12/2024.</i>
